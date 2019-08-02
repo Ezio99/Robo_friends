@@ -1,3 +1,12 @@
+My first Web App made with ReactJS.
+
+A stylish interface which provides an option to easily search for profiles by theri names.
+
+
+Robot images provided by - https://robohash.org/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
